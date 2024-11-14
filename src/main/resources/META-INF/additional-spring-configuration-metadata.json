@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "user.profile.image.path",
+    "type": "java.lang.String",
+    "description": "A description for 'user.profile.image.path'"
+  },
+  {
+    "name": "product.image.path",
+    "type": "java.lang.String",
+    "description": "A description for 'product.image.path'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "admin.role.id",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.role.id'"
+  },
+  {
+    "name": "normal.role.id",
+    "type": "java.lang.String",
+    "description": "A description for 'normal.role.id'"
+  },
+  {
+    "name": "user.profile.image.path",
+    "type": "java.lang.String",
+    "description": "A description for 'user.profile.image.path'"
+  },
+  {
+    "name": "management.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.exposure.include'"
+  },
+  {
+    "name": "port",
+    "type": "java.lang.String",
+    "description": "A description for 'port'"
+  },
+  {
+    "name": "spring.servlet.max-file-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.servlet.max-file-size'"
+  },
+  {
+    "name": "spring.jpa.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.format_sql'"
+  },
+  {
+    "name": "spring.servlet.max-request-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.servlet.max-request-size'"
+  },
+  {
+    "name": "spring.servlet.file-size-threshold",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.servlet.file-size-threshold'"
+  }
+]}
